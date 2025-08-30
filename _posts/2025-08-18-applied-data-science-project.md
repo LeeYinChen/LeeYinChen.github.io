@@ -25,7 +25,7 @@ I worked on the objective 1 - to analyze the relationship between product condit
 
 This dataset is from a fashion resale marketplace platform. It is a listing in 2025. The dataset contains listings of luxury and streetwear fashion items from brands like Acne Studios, Carhartt, Kapital, Levi's, Rick Owens, and Saint Laurent. 
 
-I downloaded the dataset and named it as _bottoms_, it is in csv format with 5,440 rows and 24 columns. Based on my preliminary assessment using the following Python codes:
+I downloaded the dataset and named it as _bottoms_, it is in csv format with 5,440 rows and 24 columns. Based on my preliminary assessment using the following Python codes in Colab:
 
 - display(bottoms.head()) 
 - bottoms.info()
