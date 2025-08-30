@@ -5,7 +5,13 @@ title: "Applied Data Science Project Documentation"
 categories: ITD214
 ---
 ## Project Background
-I am from Group 1. Our group's business goal is to optimize the Kapital fashion brand's product offerings, pricing strategies, and customer engagement to maximize sales and brand loyalty in the global market.
+I am from Group 1 of the Post-Diploma Certificate in Applied Data Science (21 Apr 2025 - 29 Aug 2025) of the School of Information Technology, Nanyang Polytechnic, Singapore. 
+
+As part of the course requirements, learners have to submit an applied data science project. For this data science project, I sourced and downloaded for my group's consideration the Branded Bottoms Resale Dataset from https://www.kaggle.com/datasets/bathingtape/branded-bottoms-resale-dataset?resource=download
+
+Group 1 is agreeable to use (or pivot the members' efforts around) the Branded Bottoms Resale Dataset which was assessed and blissed by our instructors, too.
+
+Group 1's business goal is to optimize the Kapital fashion brand's product offerings, pricing strategies, and customer engagement to maximize sales and brand loyalty in the global market.
 
 We have 4 business objectives as follows:
 - objective 1 - to analyze the relationship between product condition (new, gently used, used, etc.) and price to assess how the same will affect the pricing tier.
@@ -19,13 +25,13 @@ I worked on the objective 1 - to analyze the relationship between product condit
 
 This dataset is from a fashion resale marketplace platform. It is a listing in 2025. The dataset contains listings of luxury and streetwear fashion items from brands like Acne Studios, Carhartt, Kapital, Levi's, Rick Owens, and Saint Laurent. 
 
-The dataset known as _bottoms_ is in csv format with 5,440 rows and 24 columns. Based on my preliminary assessment using the following Python codes:
+I downloaded the dataset and named it as _bottoms_, it is in csv format with 5,440 rows and 24 columns. Based on my preliminary assessment using the following Python codes:
 
 - display(bottoms.head()) 
 - bottoms.info()
 - bottoms.describe()
 
-This dataset is of good quality, and  is ideal for regression analysis to determine the pricing tiers and to be presented in a dashboard because fields such as the items’ conditions, pricing, seller information and product specifications are clearly labelled.
+This dataset is of good quality, it is ideal for regression analysis to determine the pricing tiers and to be presented in a dashboard because fields such as the items’ conditions, pricing, seller information and product specifications are clearly labelled.
 
 
 
